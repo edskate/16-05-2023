@@ -8,6 +8,9 @@ table {
 }
 th {
   border: 2px solid;
+  font-size: 35px;
+  color: darkgoldenrod;
+  text-shadow: 2px 3px 4px #000;
   border-radius: 10px 10px 10px #000;
   background-color: darkgrey;
 }
